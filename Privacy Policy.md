@@ -17,6 +17,7 @@ To enable your ability to comment and interact with the Site, we collect a minim
 We collect and use your data **strictly for the purposes of managing and monitoring the Site.** We do not use your information for marketing purposes, and we do not sell your personal data to third parties. 
 
 Specifically, your information is used to:
+
 *   Manage user accounts and authenticate your login status.
 *   Monitor Site usage to ensure stability and security.
 *   Prevent spam, abuse, and malicious activity.
@@ -44,6 +45,7 @@ These third-party providers operate under their own privacy and cookie policies,
 ### 5. Data Sharing and Disclosure
 
 We keep your information private and will only share or disclose it under the following limited circumstances:
+
 *   **Legal Compliance:** If required to do so by law, court order, or governmental request.
 *   **Protection of Rights:** To protect and defend the rights, property, or safety of Double Crescent Productions, the Site, our users, or the public.
 
