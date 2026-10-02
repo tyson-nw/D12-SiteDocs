@@ -38,4 +38,4 @@ Regardless of the licensing status of the underlying document, **all user-submit
 
 ### 4. Licensing Inquiries
 
-For questions regarding the licensing status of a specific document or to request permissions beyond the scope of a published license, please contact Double Crescent Productions at `[Contact Email Address]`.
+For questions regarding the licensing status of a specific document or to request permissions beyond the scope of a published license, please contact Double Crescent Productions at info@doublecrescent.com.
