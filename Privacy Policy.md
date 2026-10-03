@@ -28,8 +28,7 @@ Specifically, your information is used to:
 
 D12-SRD uses cookies—small data files stored on your device—solely for essential operational purposes. 
 
-*   **Login and Session Cookies:** We use cookies specifically to track logins and maintain your authenticated session while you navigate the Site. These are essential for the Site to function properly for registered users. 
-*   We do not use tracking cookies for advertising or cross-site profiling. 
+*   **Login and Session Cookies:** We use cookies specifically to track logins and maintain your authenticated session while you navigate the Site. These are essential for the Site to function properly for registered users. We do not use tracking cookies for advertising or cross-site profiling. 
 
 You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to log in or use certain interactive features of the Site.
 
