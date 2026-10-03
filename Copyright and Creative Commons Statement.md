@@ -4,7 +4,7 @@
 
 ---
 
-### 1. Document & Page Licensing
+# 1. Document & Page Licensing
 
 Content hosted on D12-SRD consists of both proprietary and open-licensed materials. Rights vary depending on the specific document or work being viewed:
 
@@ -16,7 +16,7 @@ Always check the footer of the specific page or document you are viewing to veri
 
 ---
 
-### 2. User Comments (CC0 Waiver)
+# 2. User Comments (CC0 Waiver)
 
 Regardless of the licensing status of the underlying document, **all user-submitted comments across the entire Site are dedicated to the public domain under the Creative Commons CC0 1.0 Universal Public Domain Dedication**.
 
@@ -25,13 +25,13 @@ Regardless of the licensing status of the underlying document, **all user-submit
 
 ---
 
-### 3. Interface Icons, Trademarks, and Site Branding
+# 3. Interface Icons, Trademarks, and Site Branding
 
 * **Interface Graphics and Icons:** User interface icons and graphics utilized across D12-SRD are provided by **Lucide** and remain the copyright of their respective owners (licensed under the ISC License). Double Crescent Productions does not claim copyright ownership over Lucide's interface assets.
 * **Trademarks and Brand Identity:** The names "D12-SRD" and "Double Crescent Productions," along with custom logos, original site layout, and brand identity elements, are proprietary trademarks and assets of Double Crescent Productions. They are not covered by any Creative Commons license unless explicitly stated otherwise.
 
 ---
 
-### 4. Licensing Inquiries
+# 4. Licensing Inquiries
 
 For questions regarding the licensing status of a specific document or to request permissions beyond the scope of a published license, please contact Double Crescent Productions at info@doublecrescent.com.
