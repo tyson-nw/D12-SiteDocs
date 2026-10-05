@@ -40,7 +40,7 @@ When submitting comments or using D12-SRD, you agree not to engage in any of the
 
 # 6. Copyright Policy and DMCA Takedown
 
-We respect the intellectual property rights of others. If you believe that any document or comment on D12-SRD infringes your copyright, please submit a notice of copyright infringement containing the following details to Double Crescent Productions' designated contact at info@doublecrescent.com:
+We respect the intellectual property rights of others. If you believe that any document or comment on D12-SRD infringes your copyright, please submit a notice of copyright infringement containing the following details to Double Crescent Productions' designated contact at doublecrescentproductions@pm.me:
 
 * A physical or electronic signature of the copyright owner or authorized representative.
 * Identification of the copyrighted work claimed to have been infringed.

@@ -64,4 +64,4 @@ We may update our Privacy Policy from time to time. We will notify you of any ch
 
 # 9. Contact Us
 
-If you have any questions about this Privacy Policy or how we handle your data, please contact Double Crescent Productions at info@doublecrescent.com.
+If you have any questions about this Privacy Policy or how we handle your data, please contact Double Crescent Productions at doublecrescentproductions@pm.me.

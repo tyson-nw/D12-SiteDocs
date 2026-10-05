@@ -31,4 +31,4 @@ We encourage organic human interaction and discussion across all hosted document
 
 # 5. Questions and Contact Information
 
-If you have questions regarding our use of technology or content standards on D12-SRD, please contact Double Crescent Productions at info@doublecrescent.com.
+If you have questions regarding our use of technology or content standards on D12-SRD, please contact Double Crescent Productions at doublecrescentproductions@pm.me.
